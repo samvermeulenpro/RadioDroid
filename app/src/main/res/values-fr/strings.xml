@@ -40,7 +40,7 @@
     <string name="action_toggle_view">Basculer l\'affichage</string>
     <string name="action_top_vote">Top Votes</string>
     <string name="action_changed_lately">Modification récente</string>
-    <string name="action_currently_playing">Écoutées actuellement</string>
+    <string name="action_currently_playing">Én ce moment</string>
     <string name="action_tags">Étiquettes</string>
     <string name="action_countries">Pays</string>
     <string name="action_languages">Langues</string>
